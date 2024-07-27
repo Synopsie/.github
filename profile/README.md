@@ -1,19 +1,20 @@
 > [!TIP]
 > Currently we are looking for developers.
 
-![ArkaniaStudios](../banner.png)
+![Synospie](../Synopsie_Banner.png)
 ## Who we are 🙄
-We are an Minecraft: Bedrock Edition server with over 1 thousand registered players !<br/>
-The development team is composed of around 5 people, all from France.<br/>
-ArkaniaStudios allows us to expand our experience while building something remarkable.
+We are an organization specializing in the development and provision of APIs written in PHP. Our mission is to deliver robust, flexible, and high-performance solutions to facilitate the integration and interoperability of information systems.
 
-## What we do 🗃️
+## What we offer 🗃️
 
-- We try to open-source many projects to make a change
+Modern APIs: APIs designed according to current best practices and standards.
+Open Source Code: All our projects are open and available to the community.
+Comprehensive Documentation: Each API comes with detailed documentation for easy integration.
+Support and Collaboration: We encourage contributions and improvements to our projects from the community.
 - Using PHP, JavaScript, TypeScript to build great projects
 
 ## Apply For 📜
-Did we get you interested in working at ArkaniaStudios ? Check [here](https://arkaniastudios.com/applyfor) to see how to apply for a job!
+Did we get you interested in working at Synopsie ? Check [here](https://arkaniastudios.com/synopsie/applyfor) to see how to apply for a job!
 
 
 

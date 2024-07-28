@@ -13,8 +13,8 @@ Comprehensive Documentation: Each API comes with detailed documentation for easy
 Support and Collaboration: We encourage contributions and improvements to our projects from the community.
 - Using PHP, JavaScript, TypeScript to build great projects
 
-## Apply For 📜
-Did we get you interested in working at Synopsie ? Check [here](https://arkaniastudios.com/synopsie/applyfor) to see how to apply for a job!
+## Links 🔗
+You need help ? Check our [discord](https://discord.gg/JNDSCPwXJR) !
 
 
 

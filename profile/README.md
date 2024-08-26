@@ -1,21 +1,18 @@
 > [!TIP]
-> Currently we are looking for developers.
+> Nous recherchons actuellement des développeurs.
 
 ![Synospie](../Synopsie_Banner.png)
-## Who we are 🙄
-We are an organization specializing in the development and provision of APIs written in PHP. Our mission is to deliver robust, flexible, and high-performance solutions to facilitate the integration and interoperability of information systems.
 
-## What we offer 🗃️
+## Qui nous sommes 🙄
+Nous sommes une organisation spécialisée dans le développement et la fourniture d'APIs écrites en PHP. Notre mission est de fournir des solutions robustes, flexibles et performantes pour faciliter l'intégration et l'interopérabilité des systèmes d'information.
 
-Modern APIs: APIs designed according to current best practices and standards.
-Open Source Code: All our projects are open and available to the community.
-Comprehensive Documentation: Each API comes with detailed documentation for easy integration.
-Support and Collaboration: We encourage contributions and improvements to our projects from the community.
-- Using PHP, JavaScript, TypeScript to build great projects
+## Ce que nous offrons 🗃️
 
-## Links 🔗
-You need help ? Check our [discord](https://discord.gg/JNDSCPwXJR) !
+APIs modernes : Des APIs conçues selon les meilleures pratiques et standards actuels.
+Code Open Source : Tous nos projets sont ouverts et disponibles pour la communauté.
+Documentation complète : Chaque API est accompagnée d'une documentation détaillée pour une intégration facile.
+Support et collaboration : Nous encourageons les contributions et les améliorations de nos projets par la communauté.
+- Utilisation de PHP, JavaScript, TypeScript pour construire de grands projets.
 
-
-
-
+## Liens 🔗
+Besoin d'aide ? Consultez notre [discord](https://discord.gg/JNDSCPwXJR) !
